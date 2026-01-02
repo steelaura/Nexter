@@ -1,2 +1,2 @@
-# <a href="https://afoninis.github.io/Nexter/">Nexter</a>
+# <a href="https://steelaura.github.io/Nexter/">Nexter</a>
 Landing page for Nexter project (courses)
